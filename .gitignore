@@ -104,7 +104,3 @@ dist
 .tern-port
 
 .env
-front/.gitignore
-front/config
-front/public
-front/scripts
